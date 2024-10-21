@@ -1,8 +1,30 @@
-# React + Vite
+# Nombre de tu Proyecto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto consiste en el desarrollo de un formulario básico que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre productos . El objetivo es ofrecer una interfaz simple y funcional donde los usuarios puedan gestionar fácilmente sus elementos a través de un formulario.
 
-Currently, two official plugins are available:
+## Tabla de Contenidos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Despliegue](#despliegue)
+
+
+## Tecnologías Utilizadas
+
+- **Frontend**: React, Vite
+- **Backend**: Node, Express
+- **Base de Datos**: MongoDB Atlas
+- **Otras**: Docker
+
+## Instalación
+
+1. Clona el repositorio:
+
+  - https://github.com/DelgadoBrayan/Front_End_Optimal_Technology.git
+  - cd Front_End
+  - npm install
+
+## Despliegue
+-https://front-end-optimal-technology.onrender.com
+
