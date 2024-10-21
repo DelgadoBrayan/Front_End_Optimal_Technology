@@ -22,7 +22,7 @@ Este proyecto consiste en el desarrollo de un formulario básico que permite rea
 1. Clona el repositorio:
 
   - https://github.com/DelgadoBrayan/Front_End_Optimal_Technology.git
-  - cd Front_End
+  - cd Front_End_Optimal_Technology
   - npm install
 
 ## Despliegue
