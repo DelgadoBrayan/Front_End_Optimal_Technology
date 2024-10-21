@@ -2,7 +2,7 @@ import axios from "axios"
 import Swal from "sweetalert2";
 export const update = async(id,nameProduct)=>{
     try {
-        const response = await axios.put(`http://localhost:3000/api/products/${id}`, {
+        const response = await axios.put(`https://back-end-optimal-technology.onrender.com/api/products/${id}`, {
             nameProduct
         });
         Swal.fire({

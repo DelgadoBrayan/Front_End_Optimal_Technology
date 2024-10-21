@@ -6,7 +6,7 @@ export const CardAddItem = ({ isOpen, close }) => {
     const [nameProduct, setNameProduct] = useState()
     const createProduct = async () => {
         try {
-            const response = await axios.post('http://localhost:3000/api/products', {
+            const response = await axios.post('https://back-end-optimal-technology.onrender.com/api/products', {
                 nameProduct
             })
            

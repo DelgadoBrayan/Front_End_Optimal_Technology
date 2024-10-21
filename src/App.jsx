@@ -11,7 +11,7 @@ function App() {
   useEffect(()=>{
     const getProduct = async()=>{
       try {
-        const response = await axios.get('http://localhost:3000/api/products')
+        const response = await axios.get('https://back-end-optimal-technology.onrender.com/api/products')
         setProducts(response.data)
       } catch (error) {
         console.log(error)
